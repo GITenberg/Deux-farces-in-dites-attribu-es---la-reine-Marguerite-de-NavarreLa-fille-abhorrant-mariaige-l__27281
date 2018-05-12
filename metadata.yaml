@@ -1,0 +1,49 @@
+_repo: Deux-farces-in-dites-attribu-es---la-reine-Marguerite-de-NavarreLa-fille-abhorrant-mariaige-l__27281
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Marguerite, Queen, consort of Henry II, King of Navarre
+    aliases:
+    - Navarre, Marguerite de
+    - Margaret, Queen of Navarre
+    birthdate: 1492
+    deathdate: 1549
+    gutenberg_agent_id: '32596'
+    url: http://www.gutenberg.org/2009/agents/32596
+  editor:
+    agent_name: Lacour, Louis
+    aliases:
+    - Vorlac, Gaston
+    - Seeker, John
+    - Devars, A.
+    - Saint-Maur, comte de
+    - La Pijardière, Louis de La Cour de
+    - Sainctyon, P.
+    - Fraisse, E.
+    - Lacour, L. (Louis)
+    - La Pijardiere, Louis de La Cour de
+    - Des Mesnils, A.
+    birthdate: 1832
+    deathdate: 1891
+    gutenberg_agent_id: '32592'
+    url: http://www.gutenberg.org/2009/agents/32592
+description: ''
+gutenberg_bookshelf: FR Théâtre
+gutenberg_issued: '2008-11-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '27281'
+  lccn: '35032123'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'French drama'
+- !lcc 'PQ'
+tableOfContents: Introduction -- La fille abhorrant mariaige -- La vierge repentie.
+title: Deux farces inédites attribuées à la reine Marguerite de Navarre
+url: http://www.gutenberg.org/ebooks/27281
