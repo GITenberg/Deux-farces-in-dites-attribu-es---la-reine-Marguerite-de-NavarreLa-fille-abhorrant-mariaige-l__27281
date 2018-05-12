@@ -31,6 +31,8 @@ creator:
     gutenberg_agent_id: '32592'
     url: http://www.gutenberg.org/2009/agents/32592
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/27281#Deux-farces-in-dites-attribu-es---la-reine-Marguerite-de-NavarreLa-fille-abhorrant-mariaige-l_
 gutenberg_bookshelf: FR Théâtre
 gutenberg_issued: '2008-11-16'
 gutenberg_type: Text
